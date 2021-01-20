@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2> Hello, I'm Denis Augusto 👋 </br>
+ I'm a Fullstack Developer based in São Paulo, Brazil.
+</h2>
 
-<!--
-**denisgusto/denisgusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About me: </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 &nbsp; Exploring new technologies and developing quick solutions for applications.
+- 🎓 &nbsp; Computer Engineer.
+- 💼 &nbsp; I am currently working full time at [UNIFEV](https://www.unifev.edu.br/).
+- 🌱 &nbsp; I am familiar with scrum and remote environments, where I developed great communication skills and learned the importance of documentation and test automation (TDD).
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/denisgusto/">LinkedIn</a>.
+
+<h3>🛠 Technologies and skills:</h3>
+
+- 💻 &nbsp; PHP | Node
+- 🖥 &nbsp; Laravel | Symfony | Adonis | Express
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Tailwind CSS | Materialize | JavaScript | Jquery | TypeScript | VueJS | ReactJS | React Native
+- 🛢 &nbsp; MySQL | PostgreSQL | Oracle SQL | MongoDB | SQLite
+- 🔧 &nbsp; Linux | Git | AWS
+
+</br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denisgusto/)
+[![Gmail Badge](https://img.shields.io/badge/-denisgusto@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:denisgusto@gmail.com)
