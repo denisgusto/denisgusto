@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Computer Engineer.
 - 💼 &nbsp; I am currently working full time at [UNIFEV](https://www.unifev.edu.br/).
 - 🌱 &nbsp; I am familiar with scrum and remote environments, where I developed great communication skills and learned the importance of documentation and test automation (TDD).
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/denisgusto/">LinkedIn</a>.
+- 💼 &nbsp; Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/denisgusto/">LinkedIn</a>.
 
 <h3>🛠 Technologies and skills:</h3>
 
