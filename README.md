@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing quick solutions for applications.
 - 🎓 &nbsp; Computer Engineer.
-- 💼 &nbsp; I am currently working full time at MazzaFC - Systems & Outsourcing.
+- 💼 &nbsp; I am currently working full time at UNIFEV.
 - 🌱 &nbsp; I am familiar with scrum and remote environments, where I developed great communication skills and learned the importance of documentation and test automation (TDD).
 - 💼 &nbsp; Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/denisgusto/">LinkedIn</a>.
 
